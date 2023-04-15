@@ -1,0 +1,1 @@
+/home/nanf/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/bin/riscv64-unknown-linux-gnu-gcc -rdynamic CMakeFiles/MQTTVersion.dir/MQTTVersion.c.o -o MQTTVersion  -Wl,-rpath,/home/nanf/work/mqtt_clent/lib_mqtt/paho.mqtt.c/src: libpaho-mqtt3a.so.1.3.4 libpaho-mqtt3c.so.1.3.4 -lc -ldl -lpthread -lrt 
